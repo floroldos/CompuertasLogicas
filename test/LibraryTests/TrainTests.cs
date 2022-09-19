@@ -4,7 +4,6 @@
 // </copyright>
 //--------------------------------------------------------------------------------
 
-using ClassLibrary;
 using NUnit.Framework;
 
 namespace Tests
